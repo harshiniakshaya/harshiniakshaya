@@ -4,6 +4,8 @@ A passionate Computer Science and Engineering student with a focus on software d
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
 
 
 
