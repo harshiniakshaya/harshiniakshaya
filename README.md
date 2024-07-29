@@ -9,7 +9,8 @@ A passionate Computer Science and Engineering student with a focus on software d
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"/>
 
 ### 📊 GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=harshiniakshaya&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=harshiniakshaya&theme=transparent&show_icons=true)
+
 
 ### 📈 Github activity graph
 [![](https://github-readme-activity-graph.vercel.app/graph?username=harshiniakshaya&bg_color=000000&color=ffffff&line=004570&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
