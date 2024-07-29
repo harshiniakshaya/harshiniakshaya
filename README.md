@@ -8,6 +8,9 @@ A passionate Computer Science and Engineering student with a focus on software d
 ### 🔍 I Query In
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000"/>
 
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshiniakshaya&layout=compact&theme=transparent)
+
 ### 📊 GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=harshiniakshaya&show_icons=true&theme=transparent)
 
